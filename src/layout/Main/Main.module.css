@@ -1,0 +1,23 @@
+main {
+  width: 980px;
+  margin: 0 auto;
+  margin-top: 54px;
+}
+.conteiner {
+  display: flex;
+  justify-content: space-between;
+}
+.buttons {
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-content: center;
+  align-items: center;
+}
+.card {
+  display: block;
+  width: 484px;
+  height: 500px;
+  background-color: #000;
+}

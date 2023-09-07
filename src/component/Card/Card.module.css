@@ -1,0 +1,30 @@
+.card__title {
+  color: var(--light-gray-for-text, #a0a0a0);
+  font-size: 48px;
+  font-weight: 700;
+  width: 396px;
+  height: 48px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  margin-top: 44px;
+  margin-bottom: 44px;
+}
+.card__picture {
+  display: flex;
+  height: 200px;
+  align-items: center;
+  margin: auto;
+}
+.card__info {
+  width: 396px;
+  height: 104px;
+  margin: 0 auto;
+  margin-top: 44px;
+  color: var(--light-gray-for-text, #a0a0a0);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+}
+
